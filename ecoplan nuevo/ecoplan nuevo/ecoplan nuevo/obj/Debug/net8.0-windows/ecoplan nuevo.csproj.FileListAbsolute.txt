@@ -1,0 +1,22 @@
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\bin\Debug\net8.0-windows\ecoplan nuevo.exe
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\bin\Debug\net8.0-windows\ecoplan nuevo.deps.json
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\bin\Debug\net8.0-windows\ecoplan nuevo.runtimeconfig.json
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\bin\Debug\net8.0-windows\ecoplan nuevo.dll
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\bin\Debug\net8.0-windows\ecoplan nuevo.pdb
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan_nuevo.Form1.resources
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan_nuevo.Properties.Resources.resources
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.csproj.GenerateResource.cache
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.AssemblyInfoInputs.cache
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.AssemblyInfo.cs
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.csproj.CoreCompileInputs.cache
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.dll
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\refint\ecoplan nuevo.dll
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.pdb
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.genruntimeconfig.cache
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ref\ecoplan nuevo.dll
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan_nuevo.Form2.resources
+C:\Users\roberto\source\repos\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan_nuevo.Form3.resources
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\ecoplan nuevo\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\ecoplan nuevo\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\refint\ecoplan nuevo.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\ecoplan nuevo\ecoplan nuevo\ecoplan nuevo\obj\Debug\net8.0-windows\ecoplan nuevo.pdb
