@@ -1,0 +1,42 @@
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ECOPLAN.exe
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ECOPLAN.deps.json
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ECOPLAN.runtimeconfig.json
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ECOPLAN.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ECOPLAN.pdb
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.MenuPrincipl.resources
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.Properties.Resources.resources
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.csproj.GenerateResource.cache
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.AssemblyInfoInputs.cache
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.AssemblyInfo.cs
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.csproj.CoreCompileInputs.cache
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\refint\ECOPLAN.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.pdb
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.genruntimeconfig.cache
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ref\ECOPLAN.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.Registrar.resources
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.DatosBanco.resources
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.csproj.AssemblyReference.cache
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.csproj.Up2Date
+C:\Users\cadac\OneDrive\Escritorio\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.MenuP.resources
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\EcoPlan_Principal\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.csproj.AssemblyReference.cache
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\EcoPlan_Principal\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\EcoPlan_Principal\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\refint\ECOPLAN.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\EcoPlan_Principal\EcoplanPrincipal\ECOPLAN\ECOPLAN\obj\Debug\net8.0-windows\ECOPLAN.pdb
