@@ -1,0 +1,18 @@
+C:\Users\hecto\source\repos\El bueno\El bueno\bin\Debug\net8.0-windows\El bueno.exe
+C:\Users\hecto\source\repos\El bueno\El bueno\bin\Debug\net8.0-windows\El bueno.deps.json
+C:\Users\hecto\source\repos\El bueno\El bueno\bin\Debug\net8.0-windows\El bueno.runtimeconfig.json
+C:\Users\hecto\source\repos\El bueno\El bueno\bin\Debug\net8.0-windows\El bueno.dll
+C:\Users\hecto\source\repos\El bueno\El bueno\bin\Debug\net8.0-windows\El bueno.pdb
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El_bueno.Form1.resources
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El_bueno.Properties.Resources.resources
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.AssemblyInfo.cs
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.dll
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\refint\El bueno.dll
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.pdb
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El bueno.genruntimeconfig.cache
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\ref\El bueno.dll
+C:\Users\hecto\source\repos\El bueno\El bueno\obj\Debug\net8.0-windows\El_bueno.Form2.resources
