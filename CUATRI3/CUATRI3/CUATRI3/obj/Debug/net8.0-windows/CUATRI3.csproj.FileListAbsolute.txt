@@ -1,0 +1,43 @@
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.exe
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.deps.json
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.runtimeconfig.json
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.dll
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.pdb
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.AssemblyInfo.cs
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.dll
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\refint\CUATRI3.dll
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.pdb
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.genruntimeconfig.cache
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\ref\CUATRI3.dll
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Properties.Resources.resources
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.exe
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.deps.json
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.runtimeconfig.json
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.dll
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\bin\Debug\net8.0-windows\CUATRI3.pdb
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Form1.resources
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Form2.resources
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Properties.Resources.resources
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.csproj.GenerateResource.cache
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.AssemblyInfoInputs.cache
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.AssemblyInfo.cs
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.csproj.CoreCompileInputs.cache
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.dll
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\refint\CUATRI3.dll
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.pdb
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.genruntimeconfig.cache
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\ref\CUATRI3.dll
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Form3.resources
+C:\Users\cadac\Downloads\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.Form4.resources
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.CrearAhorro.resources
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.IngresarIE.resources
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.MiCuenta.resources
+C:\Users\Angel\source\repos\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.MisAhorros.resources
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\CUATRI3\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\CUATRI3\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\refint\CUATRI3.dll
+C:\Users\ramos\OneDrive\Escritorio\Andres\Tareas UT Andres\cuatri 3\Integrador\EcoPlan\CUATRI3\CUATRI3\CUATRI3\obj\Debug\net8.0-windows\CUATRI3.pdb
